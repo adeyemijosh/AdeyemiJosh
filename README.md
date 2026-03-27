@@ -4,7 +4,9 @@
 
 ###
 
-<h4 align="center">I'm Adeyemi Josh, a blockchain developer specializing in decentralized applications and smart contracts. Passionate about leveraging technology to create innovative solutions, I thrive on tackling complex challenges. Let's connect and build the future of blockchain together!</h4>
+<h4 align="center">
+I'm Adeyemi Josh a Software Engineer and Blockchain Developer building decentralized applications, smart contracts, and backend systems. I write clean code, think in systems, and enjoy turning complex problems into elegant solutions. Whether it's Solidity on-chain or Python off-chain, I bring the same precision to every layer of the stack. Open to collaborations, interesting problems, and building things that matter.
+</h4>
 
 ###
 
